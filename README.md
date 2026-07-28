@@ -26,10 +26,6 @@
 - **[Nama Project 3]** — deskripsi singkat 1 baris. [Demo](#) | [Repo](#)
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jefriwahyu&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefriwahyu&theme=radical" width="48%" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefriwahyu&layout=compact&theme=radical" width="48%" />
