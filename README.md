@@ -19,14 +19,6 @@
 `>` deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
 [`demo`](#) &nbsp;/&nbsp; [`source`](#)
 
-<br>
-
-```
-┌──────────────────────────────────────┐
-│  $ ./run --game snake --mode eat_all  │
-└──────────────────────────────────────┘
-```
-
 <img src="https://raw.githubusercontent.com/jefriwahyu/jefriwahyu/output/github-snake.svg" width="100%" alt="snake animation" />
 
 <br>
