@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=39FF14&background=00000000&center=true&vCenter=true&width=440&lines=%3E+whoami;%3E+building+things+that+matter;%3E+status%3A+online" alt="typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=39FF14&background=000000&center=true&vCenter=true&width=440&lines=%3E+whoami;%3E+building+things+that+matter;%3E+status%3A+online" alt="typing animation" />
 
 </div>
 
@@ -38,11 +38,11 @@
 
 ```
 ┌──────────────────────────────────────┐
-│  $ git log --graph --all              │
+│  $ ./vitals.sh --monitor              │
 └──────────────────────────────────────┘
 ```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jefriwahyu&theme=github-dark&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&hide_border=true" width="100%" alt="activity graph" />
+<img src="https://cdn.jsdelivr.net/gh/jefriwahyu/jefriwahyu@main/heartbeat.svg" width="100%" alt="heartbeat monitor" />
 
 <br>
 
