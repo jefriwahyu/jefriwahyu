@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Nama Kamu]</h1>
+<h1 align="center">Hi 👋, I'm Jefri </h1>
 <h3 align="center">Software Developer yang suka membangun solusi lintas platform</h3>
 
 <p align="center">
@@ -27,10 +27,10 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jefriwahyu&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefriwahyu&theme=radical" width="48%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefriwahyu&layout=compact&theme=radical" width="48%" />
 </p>
