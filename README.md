@@ -19,14 +19,5 @@
 `>` deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
 [`demo`](#) &nbsp;/&nbsp; [`source`](#)
 
-<img src="https://raw.githubusercontent.com/jefriwahyu/jefriwahyu/output/github-snake.svg" width="100%" alt="snake animation" />
-
-<br>
-
-```
-┌──────────────────────────────────────┐
-│  $ cat contact.txt                    │
-└──────────────────────────────────────┘
-```
 
 [`portfolio`](#) &nbsp;·&nbsp; [`linkedin`](#) &nbsp;·&nbsp; [`email`](#)
