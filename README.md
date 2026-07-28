@@ -38,11 +38,11 @@
 
 ```
 ┌──────────────────────────────────────┐
-│  $ ./vitals.sh --monitor              │
+│  $ ./run --game snake --mode eat_all  │
 └──────────────────────────────────────┘
 ```
 
-<img src="https://cdn.jsdelivr.net/gh/jefriwahyu/jefriwahyu@main/heartbeat.svg" width="100%" alt="heartbeat monitor" />
+<img src="https://raw.githubusercontent.com/jefriwahyu/jefriwahyu/output/github-snake.svg" width="100%" alt="snake animation" />
 
 <br>
 
