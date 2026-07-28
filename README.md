@@ -5,8 +5,6 @@
 </div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1800&pause=400&color=39FF14&background=00000000&center=false&vCenter=true&width=500&height=90&lines=%5BOK%5D+loading+modules...;%5BOK%5D+mounting+repositories...;%5BOK%5D+establishing+connection...;%5B%E2%9C%93%5D+system+ready" alt="boot sequence" />
 
-<br>
-
 **[Nama Project 1]**
 `>` deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
 [`demo`](#) &nbsp;/&nbsp; [`source`](#)
@@ -19,5 +17,3 @@
 `>` deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
 [`demo`](#) &nbsp;/&nbsp; [`source`](#)
 
-
-[`portfolio`](#) &nbsp;·&nbsp; [`linkedin`](#) &nbsp;·&nbsp; [`email`](#)
