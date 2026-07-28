@@ -1,53 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=100&section=header" width="100%" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=whoami;building+things+that+matter;initializing+portfolio..." alt="typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=39FF14&background=00000000&center=true&vCenter=true&width=440&lines=%3E+whoami;%3E+building+things+that+matter;%3E+status%3A+online" alt="typing animation" />
 
 </div>
 
 <br>
 
-```bash
-$ ls ./projects
+```
+┌──────────────────────────────────────┐
+│  $ ls ~/projects                      │
+└──────────────────────────────────────┘
 ```
 
 **[Nama Project 1]**
-```
-> deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
-```
-`Live Demo` → [link](#) &nbsp;|&nbsp; `Source` → [link](#)
-
-<br>
+`>` deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
+[`demo`](#) &nbsp;/&nbsp; [`source`](#)
 
 **[Nama Project 2]**
-```
-> deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
-```
-`Live Demo` → [link](#) &nbsp;|&nbsp; `Source` → [link](#)
-
-<br>
+`>` deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
+[`demo`](#) &nbsp;/&nbsp; [`source`](#)
 
 **[Nama Project 3]**
-```
-> deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
-```
-`Live Demo` → [link](#) &nbsp;|&nbsp; `Source` → [link](#)
+`>` deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
+[`demo`](#) &nbsp;/&nbsp; [`source`](#)
 
 <br>
 
-```bash
-$ echo "connect"
+```
+┌──────────────────────────────────────┐
+│  $ cat contact.txt                    │
+└──────────────────────────────────────┘
 ```
 
-<div align="left">
-<a href="#"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=footer" width="100%" />
-</div>
+[`portfolio`](#) &nbsp;·&nbsp; [`linkedin`](#) &nbsp;·&nbsp; [`email`](#)
