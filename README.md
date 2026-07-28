@@ -1,53 +1,55 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/jefriwahyu/jefriwahyu@main/matrix-rain.svg" width="100%" alt="matrix rain" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=whoami;building+things+that+matter;initializing+portfolio..." alt="typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=39FF14&background=000000&center=true&vCenter=true&width=440&lines=%3E+whoami;%3E+building+things+that+matter;%3E+status%3A+online" alt="typing animation" />
 
 </div>
 
 <br>
 
-```bash
-$ ls ./projects
+```
+┌──────────────────────────────────────┐
+│  $ ./boot.sh --init                   │
+└──────────────────────────────────────┘
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1800&pause=400&color=39FF14&background=00000000&center=false&vCenter=true&width=500&height=90&lines=%5BOK%5D+loading+modules...;%5BOK%5D+mounting+repositories...;%5BOK%5D+establishing+connection...;%5B%E2%9C%93%5D+system+ready" alt="boot sequence" />
+
+<br>
+
+```
+┌──────────────────────────────────────┐
+│  $ ls ~/projects                      │
+└──────────────────────────────────────┘
 ```
 
 **[Nama Project 1]**
-```
-> deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
-```
-`Live Demo` → [link](#) &nbsp;|&nbsp; `Source` → [link](#)
-
-<br>
+`>` deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
+[`demo`](#) &nbsp;/&nbsp; [`source`](#)
 
 **[Nama Project 2]**
-```
-> deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
-```
-`Live Demo` → [link](#) &nbsp;|&nbsp; `Source` → [link](#)
-
-<br>
+`>` deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
+[`demo`](#) &nbsp;/&nbsp; [`source`](#)
 
 **[Nama Project 3]**
-```
-> deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
-```
-`Live Demo` → [link](#) &nbsp;|&nbsp; `Source` → [link](#)
+`>` deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
+[`demo`](#) &nbsp;/&nbsp; [`source`](#)
 
 <br>
 
-```bash
-$ echo "connect"
+```
+┌──────────────────────────────────────┐
+│  $ ./run --game snake --mode eat_all  │
+└──────────────────────────────────────┘
 ```
 
-<div align="left">
-<a href="#"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
-</div>
+<img src="https://raw.githubusercontent.com/jefriwahyu/jefriwahyu/output/github-snake.svg" width="100%" alt="snake animation" />
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=footer" width="100%" />
-</div>
+```
+┌──────────────────────────────────────┐
+│  $ cat contact.txt                    │
+└──────────────────────────────────────┘
+```
+
+[`portfolio`](#) &nbsp;·&nbsp; [`linkedin`](#) &nbsp;·&nbsp; [`email`](#)
