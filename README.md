@@ -38,6 +38,16 @@
 
 ```
 ┌──────────────────────────────────────┐
+│  $ git log --graph --all              │
+└──────────────────────────────────────┘
+```
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jefriwahyu&theme=github-dark&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&hide_border=true" width="100%" alt="activity graph" />
+
+<br>
+
+```
+┌──────────────────────────────────────┐
 │  $ cat contact.txt                    │
 └──────────────────────────────────────┘
 ```
