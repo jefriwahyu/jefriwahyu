@@ -10,12 +10,6 @@
 
 <br>
 
-```
-┌──────────────────────────────────────┐
-│  $ ls ~/projects                      │
-└──────────────────────────────────────┘
-```
-
 **[Nama Project 1]**
 `>` deskripsi singkat, 1-2 baris tentang masalah yang diselesaikan project ini.
 [`demo`](#) &nbsp;/&nbsp; [`source`](#)
