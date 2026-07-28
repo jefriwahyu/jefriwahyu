@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./matrix-rain.svg" width="100%" alt="matrix rain" />
+<img src="https://cdn.jsdelivr.net/gh/jefriwahyu/jefriwahyu@main/matrix-rain.svg" width="100%" alt="matrix rain" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=whoami;building+things+that+matter;initializing+portfolio..." alt="typing animation" />
 
