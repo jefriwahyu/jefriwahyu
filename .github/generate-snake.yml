@@ -1,0 +1,35 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # jalan otomatis tiap hari jam 00:00 UTC
+  workflow_dispatch:        # bisa dijalankan manual dari tab Actions
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation (green/black theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=%2339FF14&color_dots=%23161b22,%230d2818,%23145c2c,%231fa83c,%2339FF14
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2339FF14
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          commit_message: "chore: update snake animation [skip ci]"
