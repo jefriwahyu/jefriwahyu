@@ -22,24 +22,4 @@ $ ls ~/projects
 `>` deskripsi singkat, 1 baris tentang project ini.
 [`demo`](#) &nbsp;/&nbsp; [`source`](#)
 
-<br>
-
-```bash
-$ ./snake.sh --play
-```
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/jefriwahyu/jefriwahyu/output/github-snake.svg" width="100%" alt="snake animation" />
-</div>
-
-<br>
-
-```bash
-$ cat contact.txt
-```
-
-<div align="center">
-
-[`portfolio`](#) &nbsp;·&nbsp; [`linkedin`](#) &nbsp;·&nbsp; [`email`](#)
-
 </div>
